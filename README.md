@@ -28,6 +28,6 @@ Here are some ideas to get you started:
   <img src="https://images3.alphacoders.com/704/thumb-1920-704387.png"/>
 </a>
 
-<!--<a href="https://github.com/syedmba7#gh-light-mode-only">
+<a href="https://github.com/syedmba7#gh-light-mode-only">
   <img src="https://www.teahub.io/photos/full/172-1727218_shiina-mayuri-steins-mayuri-shiina-steins-gate.jpg"/>
-</a>-->
+</a>
