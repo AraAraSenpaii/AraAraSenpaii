@@ -9,9 +9,9 @@
 
 
 <a href="https://github.com/syedmba7#gh-dark-mode-only">
-  <img src="./dark.png"/>
+  <img src="./dark.jpeg"/>
 </a>
 
 <a href="https://github.com/syedmba7#gh-light-mode-only">
-  <img src="./light.png"/>
+  <img src="./dark.jpeg"/>
 </a>
